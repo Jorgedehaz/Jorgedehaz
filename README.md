@@ -10,9 +10,9 @@ Soy un desarrollador terminando el 2º curso de DAM en el Ies de Teis. Busco nue
 ---
 
 ## 🌟 Proyectos destacados
-- **[TeiSport](#):** Descripción breve del proyecto ([enlace al repositorio o demo](https://github.com/CGAInstitution/proyectoud4-t3isport)).
-- **[Biblioteis](#):** Descripción breve del proyecto ([enlace al repositorio o demo](https://github.com/Jorgedehaz/BiblioTeisJDH)).
-- **[Inmoteis](#):** Descripción breve del proyecto ([enlace al repositorio o demo](https://github.com/Jorgedehaz/DI)).
+- **[TeiSport](#):** Descripción breve del proyecto ([TeiSport](https://github.com/CGAInstitution/proyectoud4-t3isport)).
+- **[Biblioteis](#):** Descripción breve del proyecto ([Biblioteis](https://github.com/Jorgedehaz/BiblioTeisJDH)).
+- **[Inmoteis](#):** Descripción breve del proyecto ([Inmoteis](https://github.com/Jorgedehaz/DI)).
 
 ---
 
