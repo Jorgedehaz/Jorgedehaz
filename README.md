@@ -10,9 +10,9 @@ Soy un desarrollador terminando el 2º curso de DAM en el Ies de Teis. Busco nue
 ---
 
 ## 🌟 Proyectos destacados
-- **[TeiSport](#):** Descripción breve del proyecto ([TeiSport](https://github.com/CGAInstitution/proyectoud4-t3isport)).
-- **[Biblioteis](#):** Descripción breve del proyecto ([Biblioteis](https://github.com/Jorgedehaz/BiblioTeisJDH)).
-- **[Inmoteis](#):** Descripción breve del proyecto ([Inmoteis](https://github.com/Jorgedehaz/DI)).
+- **[TeiSport](#):** Proyecto SpringBoot llevado a cabo para el módulo de Acceso a Datos. Es una plataforma de entrenamientos online para jovenes futbolistas. ([TeiSport](https://github.com/CGAInstitution/proyectoud4-t3isport)).
+- **[Biblioteis](#):** Proyecto Android llevado a cabo en el módulo Programación Moóviles. Simula la app para la biblioteca del instituto. ([Biblioteis](https://github.com/Jorgedehaz/BiblioTeisJDH)).
+- **[Inmoteis](#):** Proyecto Python llevado a cabo en el módulo Diseño de Interfaces. Aplicación para administrar una inmobiliaria, con funcionalidades para clientes, propiedades, etc. ([Inmoteis](https://github.com/Jorgedehaz/DI)).
 
 ---
 
