@@ -42,5 +42,5 @@ Soy un futuro desarrollador que actualmente está terminando el 2º curso de DAM
 ---
 
 ## 📫 Contáctame
-- **Correo electrónico:** [jorge.dehaz@example.com](mailto:jorge.dehaz@example.com)
-- **LinkedIn:** [Mi perfil](https://linkedin.com/in/jorge-de-haz)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=flat&logo=gmail&logoColor=white) **Correo electrónico:** [jorge.dehaz@example.com](mailto:jorge.dehaz@example.com)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=flat&logo=linkedin&logoColor=white) **LinkedIn:** [Mi perfil](https://linkedin.com/in/jorge-de-haz)
