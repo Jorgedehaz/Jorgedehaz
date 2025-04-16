@@ -9,6 +9,14 @@ Soy un futuro desarrollador que actualmente está terminando el 2º curso de DAM
 
 ---
 
+## 🎯 Intereses 
+
+- 🖥️ Desarrollo de apps web y móviles  
+- 🤖 Inteligencia artificial  
+- 🎮 Desarrollo de videojuegos  
+
+---
+
 ## 🌟 Proyectos destacados
 - [TeiSport](https://github.com/CGAInstitution/proyectoud4-t3isport): Proyecto SpringBoot llevado a cabo para el módulo de Acceso a Datos. Es una plataforma de entrenamientos online para jóvenes futbolistas.
 - [Biblioteis](https://github.com/Jorgedehaz/BiblioTeisJDH): Proyecto Android llevado a cabo en el módulo Programación Móviles. Simula la app para la biblioteca del instituto.
