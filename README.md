@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mí
-Soy un desarrollador terminando el 2º curso de DAM en el Ies de Teis. Busco nuevas oportunidades para aprender y mejorar. 
+Soy un futuro desarrollador que actualmente está terminando el 2º curso de DAM en el Ies de Teis. Busco nuevas oportunidades para aprender y mejorar. 
 
 ---
 
@@ -17,26 +17,27 @@ Soy un desarrollador terminando el 2º curso de DAM en el Ies de Teis. Busco nue
 ---
 
 ## 🛠️ Tecnologías y herramientas
+
 ### Lenguajes de programación:
-- **Java**
-- **Python**
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) **Java**
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) **Python**
 
 ### Frameworks y bibliotecas:
-- **Spring Boot**
-- **Hibernate**
-- **PyQt6**
-- **JavaFX**
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) **Spring Boot**
+- ![Hibernate](https://img.shields.io/badge/Hibernate-%23323330.svg?style=flat&logo=hibernate&logoColor=white) **Hibernate**
+- ![PyQt6](https://img.shields.io/badge/PyQt6-%234B8BBE.svg?style=flat&logo=qt&logoColor=white) **PyQt6**
+- ![JavaFX](https://img.shields.io/badge/JavaFX-%23FFFFFF.svg?style=flat&logo=java&logoColor=black) **JavaFX**
 
 ### Bases de datos:
-- **MySQL**
-- **PostgreSQL**
-- **SQLite**
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) **MySQL**
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white) **PostgreSQL**
+- ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white) **SQLite**
 
 ### IDEs y editores:
-- **IntelliJ IDEA**
-- **PyCharm**
-- **Visual Studio Code**
-- **Android Studio**
+- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white) **IntelliJ IDEA**
+- ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white) **PyCharm**
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?style=flat&logo=visual-studio-code&logoColor=white) **Visual Studio Code**
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white) **Android Studio**
 
 ---
 
