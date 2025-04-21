@@ -18,9 +18,9 @@ Soy un futuro desarrollador que actualmente está terminando el 2º curso de DAM
 ---
 
 ## 🌟 Proyectos destacados
-- [TeiSport](https://github.com/CGAInstitution/proyectoud4-t3isport): Proyecto SpringBoot llevado a cabo para el módulo de Acceso a Datos. Es una plataforma de entrenamientos online para jóvenes futbolistas.
-- [Biblioteis](https://github.com/Jorgedehaz/BiblioTeisJDH): Proyecto Android llevado a cabo en el módulo Programación Móviles. Simula la app para la biblioteca del instituto.
-- [Inmoteis](https://github.com/Jorgedehaz/DI): Proyecto Python llevado a cabo en el módulo Diseño de Interfaces. Aplicación para administrar una inmobiliaria, con funcionalidades para clientes, propiedades, etc.
+- ⚽ [TeiSport](https://github.com/CGAInstitution/proyectoud4-t3isport): Proyecto SpringBoot llevado a cabo para el módulo de Acceso a Datos. Es una plataforma de entrenamientos online para jóvenes futbolistas.
+- 📖 [Biblioteis](https://github.com/Jorgedehaz/BiblioTeisJDH): Proyecto Android llevado a cabo en el módulo Programación Móviles. Simula la app para la biblioteca del instituto.
+- 🏠 [Inmoteis](https://github.com/Jorgedehaz/DI): Proyecto Python llevado a cabo en el módulo Diseño de Interfaces. Aplicación para administrar una inmobiliaria, con funcionalidades para clientes, propiedades, etc.
 
 ---
 
