@@ -27,26 +27,17 @@ Soy un futuro desarrollador que actualmente está terminando el 2º curso de DAM
 ## 🛠️ Tecnologías y herramientas
 
 ### Lenguajes de programación:
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
 
 
 ### Frameworks y bibliotecas:
-- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) 
-- ![Hibernate](https://img.shields.io/badge/Hibernate-%23323330.svg?style=flat&logo=hibernate&logoColor=white) 
-- ![PyQt6](https://img.shields.io/badge/PyQt6-%234B8BBE.svg?style=flat&logo=qt&logoColor=white) 
-- ![JavaFX](https://img.shields.io/badge/JavaFX-%23FFFFFF.svg?style=flat&logo=java&logoColor=black) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-%23323330.svg?style=flat&logo=hibernate&logoColor=white) ![PyQt6](https://img.shields.io/badge/PyQt6-%234B8BBE.svg?style=flat&logo=qt&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-%23FFFFFF.svg?style=flat&logo=java&logoColor=black) 
 
 ### Bases de datos:
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white) 
-- ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white) 
 
 ### IDEs y editores:
-- ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-- ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white) 
-- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?style=flat&logo=visual-studio-code&logoColor=white) 
-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?style=flat&logo=visual-studio-code&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white) 
 
 ---
 
