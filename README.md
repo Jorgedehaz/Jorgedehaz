@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jorge de Haz
 
-¡Bienvenido a mi perfil de GitHub! Aquí encontrarás algunos de los proyectos en los que he trabajado y las tecnologías que manejo.
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás algunos de los proyectos en los que he trabajado, las tecnologías que manejo , mis intereses y mi contacto.
 
 ---
 
