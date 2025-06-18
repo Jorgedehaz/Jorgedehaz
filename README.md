@@ -5,7 +5,9 @@
 ---
 
 ## 🚀 Sobre mí
-Soy un futuro desarrollador que actualmente está terminando el 2º curso de DAM en el Ies de Teis. Busco nuevas oportunidades para aprender y mejorar. 
+Desarrollador de software junior interesado por el desarrollo de aplicaciones multiplataforma que acaba de terminarl el 2º curso de DAM en el Ies de Teis. 
+Busco oportunidades para unirme a un equipo donde pueda seguir aprendiendo y mejorar mis conocimientos. 
+
 
 ---
 
@@ -18,6 +20,7 @@ Soy un futuro desarrollador que actualmente está terminando el 2º curso de DAM
 ---
 
 ## 🌟 Proyectos destacados
+- 🏎️ [FantasyOne](https://github.com/Jorgedehaz/FantasyOne): Proyecto de fin de ciclo. La app es un fantasy de Fórmula 1 con datos reales de la API OpenF1 en el que usuarios podran participar en ligas, fichar pilotos y competir por quedar primeros en la clasificación. El backend está construido con SpringBoot y Frontend con React. Persistencia de datos con MySQL.  
 - ⚽ [TeiSport](https://github.com/CGAInstitution/proyectoud4-t3isport): Proyecto SpringBoot llevado a cabo para el módulo de Acceso a Datos. Es una plataforma de entrenamientos online para jóvenes futbolistas.
 - 📖 [Biblioteis](https://github.com/Jorgedehaz/BiblioTeisJDH): Proyecto Android llevado a cabo en el módulo Programación Móviles. Simula la app para la biblioteca del instituto.
 - 🏠 [Inmoteis](https://github.com/Jorgedehaz/DI): Proyecto Python llevado a cabo en el módulo Diseño de Interfaces. Aplicación para administrar una inmobiliaria, con funcionalidades para clientes, propiedades, etc.
