@@ -56,10 +56,10 @@ Busco oportunidades para unirme a un equipo donde pueda seguir aprendiendo y mej
 
 
 ### IDEs y editores:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?style=flat&logo=visual-studio-code&logoColor=white)  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=flat&logo=pycharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 
 ---
 
