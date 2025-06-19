@@ -20,7 +20,7 @@ Busco oportunidades para unirme a un equipo donde pueda seguir aprendiendo y mej
 ---
 
 ## 🌟 Proyectos destacados
-- 🏎️ [FantasyOne](https://github.com/Jorgedehaz/FantasyOne): Proyecto de fin de ciclo. La app es un fantasy de Fórmula 1 con datos reales de la API OpenF1 en el que usuarios podran participar en ligas, fichar pilotos y competir por quedar primeros en la clasificación. El backend está construido con SpringBoot y Frontend con React. Persistencia de datos con MySQL.  
+- 🏎️ [FantasyOne](https://github.com/Jorgedehaz/FantasyOne): Proyecto de fin de ciclo. La app es un fantasy de Fórmula 1 con datos reales de la API OpenF1 en el que los usuarios pueden unirse a ligas, fichar pilotos y competir en la clasificación.El backend está construido con Spring Boot, donde se desarrolló una API RESTful que expone múltiples endpoints para gestionar usuarios, ligas y pilotos, estructurados mediante DTOs. El frontend en React consume esta API para mostrar y gestionar los datos. Persistencia con MySQL.
 - ⚽ [TeiSport](https://github.com/CGAInstitution/proyectoud4-t3isport): Proyecto SpringBoot llevado a cabo para el módulo de Acceso a Datos. Es una plataforma de entrenamientos online para jóvenes futbolistas.
 - 📖 [Biblioteis](https://github.com/Jorgedehaz/BiblioTeisJDH): Proyecto Android llevado a cabo en el módulo Programación Móviles. Simula la app para la biblioteca del instituto.
 - 🏠 [Inmoteis](https://github.com/Jorgedehaz/DI): Proyecto Python llevado a cabo en el módulo Diseño de Interfaces. Aplicación para administrar una inmobiliaria, con funcionalidades para clientes, propiedades, etc.
