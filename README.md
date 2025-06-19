@@ -37,12 +37,16 @@ Busco oportunidades para unirme a un equipo donde pueda seguir aprendiendo y mej
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white) 
 ![Hibernate](https://img.shields.io/badge/Hibernate-%23323330.svg?style=flat&logo=hibernate&logoColor=white) 
 ![PyQt6](https://img.shields.io/badge/PyQt6-%234B8BBE.svg?style=flat&logo=qt&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/JavaFX-%23FFFFFF.svg?style=flat&logo=java&logoColor=black) 
+![JavaFX](https://img.shields.io/badge/JavaFX-%23FFFFFF.svg?style=flat&logo=java&logoColor=black)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
+
 
 ### Bases de datos:
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)  
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
 
 ### DevOps & Cloud:
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
