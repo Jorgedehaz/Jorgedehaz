@@ -5,8 +5,8 @@
 ---
 
 ## 🚀 Sobre mí
-Desarrollador de software junior interesado por el desarrollo de aplicaciones multiplataforma que acaba de terminarl el 2º curso de DAM en el Ies de Teis. 
-Busco oportunidades para unirme a un equipo donde pueda seguir aprendiendo y mejorar mis conocimientos. 
+Desarrollador full stack junior interesado en el desarrollo de aplicaciones multiplataforma que acaba de terminar el 2º curso de DAM en el Ies de Teis. 
+Busco oportunidades para unirme a un equipo donde pueda aportar mis aptitudes y conocimientos y donde seguir desarrollandome como programador. 
 
 
 ---
